@@ -1,4 +1,4 @@
-Hey, I am Sakthi!
+**Hey,** **I am** Sakthi!
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently experimenting with React_JS and cloud_Computing
