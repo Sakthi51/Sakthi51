@@ -1,4 +1,4 @@
-## Hey, I am [Sakthi](https://www.linkedin.com/in/sakthi-0654b821a/)
+## Hey, I am [Sakthi!](https://www.linkedin.com/in/sakthi-0654b821a/)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently experimenting with React_JS and cloud_Computing
