@@ -2,7 +2,7 @@ Hey, I am Sakthi!
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently experimenting with React_JS and cloud_Computing
-- 📫 How to reach me: https://www.linkedin.com/in/sakthi-0654b821a/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakthi-0654b821a/)
 - 😄 Pronoun: He/Him
 
 <!---
