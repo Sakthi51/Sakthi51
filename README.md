@@ -1,6 +1,6 @@
 ## Hey, I am [Sakthi!](https://www.linkedin.com/in/sakthi-0654b821a/)
 
-- 👀 'It is foolish to fear what we have yet to see and know'
+- 👀 "It is foolish to fear what we have yet to see and know"
 - 🌱 I’m currently experimenting with React_JS and cloud_Computing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakthi-0654b821a/)
 - 😄 Pronouns: He/Him 
