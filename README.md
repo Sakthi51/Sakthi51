@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I am Sakthi!</h2>
+<h2 align="left">Hey, I am Sakthi!<br>- 👀 "It is foolish to fear what we have yet to see and know"<br>- 🌱 I’m currently experimenting with React_JS<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakthi-0654b821a/)<br>- 😄 Pronouns: He/Him</h2>
 
 ###
 
