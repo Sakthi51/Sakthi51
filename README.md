@@ -1,17 +1,13 @@
-## Hey, I am [Sakthi!](https://www.linkedin.com/in/sakthi-0654b821a/)
+# Hi there! I'm Sakthivel Ramasamy 👋
 
-- 👀 "It is foolish to fear what we have yet to see and know"
-- 🌱 I’m currently experimenting with Salesforce internal tools.
-- 😄 Pronouns: He/Him 
-- 📫 How to reach me:
+Welcome to my GitHub profile! I'm a software engineer and programming instructor with a passion for developing innovative solutions. Here's a little about me:
 
-  
-  <div align="left">
-  <a href="https://www.linkedin.com/in/sakthi-0654b821a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Skills
 
+- **Programming Languages:** Python, Java, JavaScript, Apex
+- **Front-end Development:** HTML, CSS, Bootstrap, React JS, Redux, Redux Saga
+- **Back-end Development:** Node JS, Express JS, Flask, GraphQL
+- **Miscellaneous:** Git/GitHub, SQL, MongoDB
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -45,7 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
 </div>
 
-<!---
-Sakthi51/Sakthi51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sakthi-0654b821a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
