@@ -9,8 +9,6 @@
 
 ###
 
-![Alt text]([https://drive.google.com/file/d/1hxyRVi0dprDqTC0JgAKc74Ca4gcYMCGw/view?usp=sharing])
-
 ###
 
 <div align="left">
