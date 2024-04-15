@@ -1,14 +1,17 @@
 ## Hey, I am [Sakthi!](https://www.linkedin.com/in/sakthi-0654b821a/)
 
 - 👀 "It is foolish to fear what we have yet to see and know"
-- 🌱 I’m currently experimenting with React_JS and cloud_Computing
+- 🌱 I’m currently experimenting with Salesforce internal tools.
+- 😄 Pronouns: He/Him 
 - 📫 How to reach me:
+
+  
 - <div align="left">
   <a href="https://www.linkedin.com/in/sakthi-0654b821a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-- 😄 Pronouns: He/Him 
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
